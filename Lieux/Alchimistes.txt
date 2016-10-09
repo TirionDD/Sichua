@@ -1,0 +1,261 @@
+\section{Guilde des Alchimistes}
+
+\subsection{Déscription}
+
+Les maisons des différents alchimistes de la ville forment un ensemble compact 
+et assez chaotique particulièrement original dans ce quartier huppé. Les 
+longues cheminées d'où s'échappent des fumées multicolores révèlent 
+immédiatement l'usage de ces bâtiments. Au rez-de-chaussée, les échoppes 
+donnent pour la plupart sur la promenade des brouillards ou à défaut dans de 
+petites venelles latérales. Au centre du complexe, un édifice plus cossu 
+abrite le siège de la guilde en elle-même. Un vaste salon fort luxueux permet 
+d'y recevoir les clients et fournisseurs les plus fortunés pour y négocier 
+d'importants contrats autour d'un thé ou d'un vin aux origines lointaines. 
+Au-dessus des échoppes se trouvent les bureaux et les habitations des 
+alchimistes et de leurs familles, les laboratoires eux se trouvent généralement 
+en retrait de la promenade au-dessus de hangars où sont installées de petites 
+verreries artisanales.
+
+Le travail d'alchimiste nécessite de se fournir en produits rares et exotiques
+en provenance de toutes les parties du monde connu. Ce sont les dirigeants de
+la guilde, dont les bureaux sont localisés au-dessus du grand salon, qui 
+mènent les négociations avec les grands marchands de la ville pour acheter ces 
+produits rares et ensuite les répartir entre les alchimistes. Cette dernière 
+tâche, d'une importance capitale, est la raison pour laquelle les sièges 
+héréditaires du conseil de la guilde se négocient à plusieurs centaines de
+millier de pièces d'or. À l'autre bout de l'échelle sociale de la guilde on trouve 
+les enfants coursiers qui forment un maillon essentiel de la guilde, les 
+potions les plus vendues par la guilde étant les potions de guérison ou de 
+soins, la plupart des clients ne sont pas en état de venir chercher leurs 
+préparations et se les font donc livrer. Ces jeunes coursiers proviennent 
+généralement des quartiers pauvres et doivent payer une redevance pour être 
+autorisés à transporter les potions, en contre partie, ils touchent des primes
+importantes à chaque ivraisons et élisent chaque année 
+un représentant au conseil de la guilde.
+
+La guilde ne se limite pas à la surface, les sous sols accueillent un certain
+nombre de laboratoires et de lieux de stockage pour les matières les plus 
+sensibles. En particulier, la grande salle des coffres sous le salon d'honneur 
+de la guilde est hautement sécurisée et il y patrouille jour et nuit deux 
+golems de fer. Cette grande salle voûtée, toujours parcourue par un courant
+d'air dispersant les émanations toxiques ou corrosives, abrite le long de ses
+murs les coffres de la guilde et des alchimistes les plus fortunés. On dit que 
+cette salle est protégée contre tous types d'intrusion magique. Les trésors qui 
+y sont stockés sont l'objet de nombreux bruits et fantasmes en ville, mais la 
+réalité les surpasses tant on peut y trouver de potions légendaires dont la 
+puissance n'est égalée que par leur prix. Les alchimistes y stockent aussi les 
+matériaux les plus rares utilisés pour la fabrication de ces mêmes potions. Si 
+l'on en crois les rumeurs cela inclurait du sang de dragons anciens, des plumes 
+de solaire ou de la poudre d'os de liche... Un tel lieu pourrait légitimement 
+attirer les convoitises et certains bruits dans les bas fonds indiquent que 
+la guilde des alchimistes en a négocié l'immunité avec les guildes de voleurs. 
+L'accord stipulerait que les guildes de voleurs punissent de mort toutes 
+tentatives ou même projet de cambriolage du lieu, en échange de quoi les 
+alchimistes fourniraient régulièrement des poisons rares à ces guildes. Un 
+échange de bons procédés moralement discutable dont les instances dirigeantes 
+de la guilde ont toujours nié l'existence.
+
+\subsection{Quelques membres du conseil}
+
+{\bf Aquila Primus} est l'actuel Grand Alchimiste et maître de l'ordre. Sa famille
+détient les recettes les plus complexes et les secrets pour extraire l'essence
+des produits les plus rares. Les potions de sa fabrication sont d'une puissance
+incomparable et on vient de très loin pour lui acheter ses produits. La rareté
+de sa production lui laisse tout le temps nécessaire pour s'occuper de la 
+gestion de la guilde et rencontrer ses partenaires commerciaux.
+
+{\bf Tiberius Hondar} est l'un des producteurs de potions de soins les plus réputés. 
+En particulier ses onguents de régénérations qui ont permis à tant de riches 
+clients de retrouver un doigt, un nez, voir parfois une jambe entière. Ce 
+miracle a néanmoins un coût : plusieurs milliers de pièces d'or par semaine de 
+traitement.
+
+{\bf Krassius Eldark} est un alchimiste atypique, car la spécialité de sa famille 
+depuis de nombreuses générations est la fabrication de golems. Lorsque vous 
+verrez l'un de ces petits golems de bois faire le service dans un hôtel 
+particulier, sachez qu'il en est l'unique fabriquant et que ces petits bijoux 
+valent une quinzaine de milliers de pièces d'or. La construction de golems de 
+guerre, tel ceux de la salle aux trésors de la guilde, est néanmoins une toute 
+autre affaire. Ceux-ci ne sont disponibles que sur commande plusieurs mois à 
+l'avance et selon la disponibilité de matériaux de construction rares. Enfin, 
+il vous faudra aussi débourser plusieurs centaines de milliers de pièces 
+d'or... Vous comprenez à présent pourquoi ils ne courent pas les rues.
+
+\begin{table} [h]
+    \setlength{\tabcolsep}{4pt}
+    \center
+\begin{tabular}{lcc}
+  \bf Nom & \bf Prix & \bf Page\\
+   \rowcolor{LightCyan}
+  Armure animée (FP 1) & 8 000 po & \pageref{ArmureAnimee}\\
+  Golem de bois (FP 2) & 15 000 po & \pageref{GolemBois}\\
+   \rowcolor{LightCyan}
+  Golem de chair* (FP 5) & 50 000 po & \pageref{GolemChair}\\
+  Gardien animé (FP 7) & 80 000 po & \pageref{GardienAnime}\\
+   \rowcolor{LightCyan}
+  Golem d'argile (FP 9) & 125 000 po & \pageref{GolemArgile}\\
+  Golem de pierre (FP 10) & 150 000 po & \pageref{GolemPierre}\\
+   \rowcolor{LightCyan}
+  Golem de bronze (FP 13) & 250 000 po & \pageref{GolemBronze}\\
+  Golem de fer (FP 16) & 400 000 po & \pageref{GolemFer}\\
+\end{tabular}
+\caption{\small * proposé uniquement aux clients de confiance...}
+    \setlength{\tabcolsep}{6pt}
+\end{table}
+
+{\bf Kaeso Hartar} est le spécialiste incontesté des poisons et potions aux
+objectifs les plus discutables. Son rôle dans la fourniture des guildes
+d'assassins en fait un membre incontournable de la guilde. Il est néanmoins
+très discret et son laboratoire est probablement la pièce la plus profonde
+du complexe de la guilde des alchimistes. Sa specialité est un poison à base 
+de sang de Diantrefosse qui enverrait sa victime directement en enfer pour une
+éternité de supplices...
+
+\subsection{Accroche d'aventure}
+
+Vos aventuriers peuvent se rendre à la guilde pour différentes raisons. La plus
+commune est pour l'achat de potions. Dans ce cas, la taille et l'opulence de la 
+boutique à laquelle ils s'adresseront dépend de la valeur des potions qu'ils 
+achètent. Les membres du conseil de la guilde reçoivent généralement leurs clients 
+réguliers dans le salon d'honneur. Il est aussi possible de revendre un certain 
+nombre de plantes ou d'organes de créatures à la guilde. Néanmoins, un jet 
+d'arcane DD 15 est nécessaire pour savoir quelles sont les parties intéressantes 
+d'un monstre (s'il y en a) et un jet de nature DD 15 permet de les recueillir 
+sans les altérer. Les alchimistes sont ouverts au troc et sont toujours à la 
+recherche de matières premières, en cas de pénuries il peut même arriver qu'ils 
+passent des commandes directement aux aventuriers de passage. Il est aussi 
+possible que des aventuriers soient envoyés pour enquêter sur certaines 
+activités de la guilde. En particulier, il existe des rumeurs indiquant que 
+Krassius utiliserait des âmes humaines pour la construction de ses golems. 
+Évidemment, toute enquête sur un empoisonnement mènera à Kaeso qui peut en tant 
+qu'expert aider à trouver la nature d'un poison contre menu payement. Il 
+ne donnera néanmoins jamais d'indication sur ses clients et ne garde d'ailleurs 
+aucune note à leur sujet. On pourra seulement trouver des indications sur ses 
+ventes récentes dans ses livres de comptes, mais il ne partagera jamais ces 
+informations volontairement. 
+
+
+\begin{table}
+    \setlength{\tabcolsep}{4pt}
+\begin{tabular}{lc}
+  \bf Nom & \bf Prix \\
+   \rowcolor{LightCyan}
+  Potion de soins & 50 po \\
+  Potion de poison & 100 po \\
+   \rowcolor{LightCyan}
+  Élixir de santé & 125 po \\
+  Potion de soins améliorés & 150 po \\
+   \rowcolor{LightCyan}
+  Potion de souffle de feu & 150 po \\
+  Onguent de régénération & 150 po \\
+   \rowcolor{LightCyan}
+  Potion d'amitié animale & 200 po \\
+  Potion d'escalade & 200 po \\
+   \rowcolor{LightCyan}
+  Potion d'héroïsme & 200 po \\
+  Potion d'invisibilité & 200 po \\
+   \rowcolor{LightCyan}
+  Potion de lecture des pensées & 200 po \\
+  Potion de respiration aquatique & 200 po \\
+   \rowcolor{LightCyan}
+  Potion de diminution & 250 po \\
+  Potion de croissance & 250 po \\
+   \rowcolor{LightCyan}
+  Potion de forme gazeuse & 300 po \\
+  Potion de résistance & 300 po \\
+   \rowcolor{LightCyan}
+  Potion de vitesse & 400 po \\
+  Potion de force de géant des collines & 400 po \\
+   \rowcolor{LightCyan}
+  Huile d'insaisissabilité & 450 po \\
+  Potion de soins supérieurs & 450 po \\
+   \rowcolor{LightCyan}
+  Philtre d'amour & 500 po \\
+  Potion de vol & 500 po \\
+   \rowcolor{LightCyan}
+  Potion de clairvoyance & 1000 po \\
+  Potion de force de géant du froid & 1000 po \\
+   \rowcolor{LightCyan}
+  Potion de vitalité & 1000 po \\
+  Potion de soins suprêmes & 1350 po \\
+   \rowcolor{LightCyan}
+  Potion de force de géant du feu & 1600 po \\
+  Huile éthérée* & 2000 po \\
+   \rowcolor{LightCyan}
+  Potion de souffle draconique* & 2500 po \\
+  Huile d’affûtage* & 3000 po \\
+   \rowcolor{LightCyan}
+  Potion de force de géant des nuages* & 3000 po \\
+  Potion d'immunité* & 3000 po \\
+   \rowcolor{LightCyan}
+  Potion d'invulnérabilité* & 4000 po \\
+  Potion de force de géant des tempêtes* & 5000 po \\
+   \rowcolor{LightCyan}
+  Poison des enfers & 6000 po \\
+  Potion de soins complets* & 7000 po \\
+   \rowcolor{LightCyan}
+  Potion de longévité* & 9000 po \\
+\end{tabular}
+\caption{Liste de potions \newline \small
+* potions disponible uniquement chez Aquila Primus.\newline
+** potion disponible uniquement chez Kaeso Hartar}
+    \setlength{\tabcolsep}{6pt}
+\end{table}
+
+
+
+\subsection{Nouvelles potions}
+
+ - Onguent de régénération
+     L'application de l'onguent deux fois par jour durant plusieurs semaines 
+permet de faire repousser un membre perdu. Un traitement unique peut faire 
+disparaître une petite cicatrice, une semaine permet de retrouver quelques 
+phalanges et trois mois une jambe coupée juste sous le bassin. Durant la 
+période de repousse le sujet est la victime de violentes douleurs.
+
+ - Poison des enfers
+     Poison à appliquer sur une arme tranchante ou perçante. Le poison agit 
+lors de la prochaine attaque réussie ou perd son pouvoir après une minute. Le
+poison cause 10d10 de dégâts ou la moitié si la victime réussit un jet de 
+sauvegarde de constitution DC 20. Si la cible est tuée par le poison, son âme
+est directement transportée aux enfers sous la forme d'un Lémure. 
+
+ - Potion de soins complets
+     Lorsque vous buvez cette potion vous regagnez tous vos point de vie. Les
+potions de soins n'ont néanmoins plus d'effet sur vous durant les prochaines 
+48 heures.
+
+ - Potion de souffle draconique
+Après avoir bu cette potion, vous pouvez utiliser une action bonus pour expirer 
+un souffle digne d'un dragon. Toutes les créatures situées dans un cône de 
+9 mètres doivent réussir un jet de sauvegarde DD 17 sans quoi chacune d'elles 
+subit 10d6 dégâts. En cas de réussite, les dégâts sont réduits de moitié. Le 
+souffle contourne les coins et affecte les objets qui ne sont pas portés ou 
+transportés. L'effet se termine après avoir utilisé ce souffle trois fois ou 
+après une heure. La potion peut être préparée pour différents types de dégâts 
+et de jet de sauvegarde: 
+
+Type	Dégâts	Jet de sauvegarde
+Blanc	Froid	Constitution
+Bleu	Foudre	Dextérité
+Noir	Acide	Dextérité
+Rouge	Feu	Dextérité
+Vert	Poison	Constitution
+
+ - Potion d'immunité
+Lorsque vous buvez cette potion, vous gagnez une immunité à un type de dégâts 
+pendant 1 heure. Le MD choisit le type ou le détermine au hasard parmi les 
+options ci-dessous.
+
+d10	Type de dégâts
+1	Acide
+2	Froid
+3	Feu
+4	Force
+5	Foudre
+6	Nécrotique
+7	Poison
+8	Psychique
+9	Radiant
+10	Tonnerre
+

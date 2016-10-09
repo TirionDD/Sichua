@@ -1,0 +1,71 @@
+Chasse dans les bois alentours pour le "sport". Principalement des nobles 
+et des bourgeois fortunés qui veulent avoir le grand frisson et des têtes
+de créatures monstrueuse dans leur salon. Les expeditions de chasses sont
+organisées longtemps en avance, la traque commençant par la rumeur d'une 
+créature massive à deux ou trois jours de cheval de Sichua au maximum. Le
+club recrute alors quelques aventuriers pour aller faire du repérage sur
+place, s'assurer de la réalité de la rumeure et de la taille exact du 
+monstre. Aec ces informations les membres du club se réunissent dans le 
+grand salon orné des plus belle prises collectives: tête de dragons adultes
+voir anciens, oeil de kraken, (améliorer la liste). Lors de cette réunion, 
+les membres évaluent la puissance de la créature et déclare si ils sont 
+interessé. La puissance de la créature déterine le nombre de membre du club 
+qui seront autorisé à partir en chasse (ce nombre peut être illimité pour
+une créature mythique) et surtout la taille de l'équipage qui partira avec 
+eux. Si il y a trop de candidats, ce sont les membres réguliers ayant 
+attendu le plus qui sont prioritaire, l'ancienneté et l'assiduité entrant 
+aussi en compte. Le dernier mot étant au doyen du club en cas de litige.
+
+Les expeditions sont organisées par les membres du club dans un second
+temps ceux-ci déterminent quels troupes ils vont recruté et quels 
+préparatifs seront nécessaires en fonction de la créature qui sera chassé. 
+La chasse est
+généralement peu dangereuse car le club recrute toujours un nombre 
+important d'aventurier en soutient, mais les créatures chassées sont 
+parfois d'une grande intelligence et toujours douées d'un instinct de survie
+très éguisé. Il n'est ainsi pas rare que la créature chassé s'échappe. 
+C'est alors un mauvais point pour toute l'expédition, réduisant les chances 
+d'être choisi pour l'expédtion suivante, qu'on soit un membre du club ou 
+un aventurier employé par le club.
+
+Les membres du club sont cooptés par leurs pairs et essentiellement choisis
+parmis la haute société de la ville, nobles, grand bourgeois ou grand 
+prètre. En fin de chasse, les trofés sont descerne de manière consensuelle
+entre les membres du club en fonction des actes de chacuns. Un travail
+particulièrement collectif entrainant le principal trophé (la tête en 
+général) vers le hall des chasseurs du club, les noms des membres étant 
+listé sous chaque trophé. En terme de prestige, il est important pour un 
+ancien du club de disposé à la fois de trophés personnels et collectifs de 
+préstige montrant ses capacités de leader et son caractère confraternel.
+
+Le club organise chaque année un grand diner avec les membres du conseil 
+des cinq et le reste de l'oligarchie locale. Ce moment est l'occasion de 
+mettre en avant le rôle du club qui permet nottament de sécuriser les 
+alentours de la ville. Il permet aussi aux autorités de remercié les
+grands chasseurs ayant éliminé des créatures particulièrement dangereuses.
+
+Dirigeants du club:
+Doyen:
+
+Secrétaire:
+ - Enregistre les informations sur chaque chasse
+
+Trésorier:
+ - S'assure que les finances du club s'équilibrent
+ - Contribution des membres
+     Une part annuelle et une part pour chaque chasse. La seconde est 
+     souvent payé en nature avec la fourniture de troupes. La pluspart
+     des membres ayant des hommes de mains divers et variés, ils préfèrent
+     partir en chasse avec ceux-ci.
+ - Vente des parties de monstres aux alchimistes et armuriers
+ - Paye des aventuriers subsidiaires
+ - Contributions des instances locales débarassés du monstre.
+   (Les villages et fermes sont souvent à l'origine des chasses et offrent
+    des primes pour s'assurer l'aide du club. C'est une contribution 
+    financière importante pour les nombreux contrat sur des crétatures 
+    mineures)
+ - Entretient du siège du club.
+    Salon ou les membres peuvent se réunir, manger etc quant ils le 
+    souhaitent.
+
+-> ajouter biblio de zoologie reservé aux membres

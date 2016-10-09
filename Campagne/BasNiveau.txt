@@ -1,0 +1,146 @@
+\section{Introduction}
+
+Missions Part-branche-numbranche. Ajouter un guide pour naviguer entre les missions.
+
+Joueurs:
+\begin{itemize}
+  \item {\bf Ghech} sorcier drakeïde (Mikael)
+  \item {\bf Myrdim} barde demi-elfe (Kévin)
+  \item {\bf Seyonne} moine demi-elfe (Julien)
+  \item \sout{{\bf Mialee} ranger haute elfe (Cyrielle)}
+  \item {\bf Thia} druide haute elfe (Cyrielle)
+\end{itemize}
+
+Ghech est lié avec un grand-ancien par un pacte de chaine. Son familier est un 
+monodron. Le grand ancien est à la recherches de connaissances pour une raison
+inconnue.
+
+Myrdim est un peu kleptomane, ce qui lui attire des ennuis régulièrement.
+
+Seyonne a appris son art auprès de démonistes qui l'avaient enlevés
+
+Mialee accueille un groupe d'orphelin dans leur petite maison délabrée. Elle
+est malheureusement décédée lors d'une rixe dans les faubourgs nord.
+
+Thia, la s\oe{}r de Milee est une druide du temple de la nature en centre ville.
+
+\section{Le Nécromant}
+
+\subsection*{1-1-1 Les rats géants}
+
+Depuis quelques temps des rats géants sont apparu en ville. 
+Plusieurs chambellans de quartiers touché offrent une PO par carcasse.
+Deux exemples de chambellans: Familan un marchand de pots en cuivres et 
+casseroles, c'est un vieux monsieur avec de l'embonpoint et une grosse 
+moustache blanche. Il peut orienter les PJs vers la quête.
+Orond est lui chambellan au c\oe{}ur des quartiers attaqué par les rats,
+c'est un maréchal férand plutôt jeune avec une barbe noire raisonnablement
+taillé. Il est musclé et généralement transpirant dans sa boutique sur chauffé.
+Devant chez lui s trouve un tas de cadavre de rats.
+
+Nos jeunes aventuriers peuvent tenter une incursion dans les égouts pour trouver un grand nombre de rats.
+N'importe quel habitant sait que les égouts sont un endroit dangereux pour une personne seule, mais pour 
+un groupe, normalement il n'y a pas de problème.
+
+Etape 1: Rassembler des informations et de l'équipement (torches et barre à mine sont utile)
+
+Etape 2: Se rendre de nuit dans le quatier le plus infesté. Il y a quelques autres groupes qui cherchent
+des rats. Ils sont formé 1d4+2 bandits MM343. Les PJs et un groupe découvrent 5 rats géants MM327, le 
+meilleur jet de survie mène la traque. S'en suit une dispute sur qui doit récupérer les corps pour la 
+prime. Tout est possible, jets contesté DC fixe en fonction de la force de l'argument. Si ils tuent les
+autres aventuriers -> Mission échapper à la garde.
+
+Étape 3: La victoire pousse le groupe à descendre dans les égouts. Descriptions égouts, odeur infame,
+champignons géants dans tous les coins (DC15 nature pour les reconnaitre, jet de sauvegarde sagesse DC15 
+pour ne pas s'evanouir si on y touche). On entend en permanence les couinements de rats (non géant) 
+provenant de toute part, on les aperoient aussi à la limite de la lumière de la torche. Les aventuriers 
+poursuivent quelques rats géants 
+isolés (combats non joués). Ils en attrapent un toute les 10 minutes environ, après 1d4 rats capturés, 
+jet de survie DC12 pour sentir qu'ils approchent un "nid" affrontent 5 rats géants MM327 apres deux 
+tours 2 rats géants supplémentaires
+arrivent par derrière. Certains rats semblent a moitié pourris comme si ils étaient dejà mort...
+
+Étape 4: Sur le retour, l'aire semble lourd et le silence est complet dans l'égout. Certains des corps 
+de rats aux ceintures se mettent à fremir et bouger... Sans barre à mine
+jet DC 12 survie pour retrouver leur chemin. Sinon jet DC15 force pour ouvrir une porte. En cas d'échecs
+ou de non fuite, deux squellettes apparissent MM272. A la fin du combat 1d6 corps de rats perdu semblent 
+avoir fuient. Deuxieme tentative de sortie réussie sinon arrivent dans un couloir ou se trouvent une dizaine
+de squelettes. Fuite oblegatoire.
+
+A la sortie de l'égout l'équipe gagne un 300 xp et peut aller faire un rapport au chambellan. Il est
+séptique et renvoie les PJ vers le temple de la justice sur l'affaire des morts vivants.
+
+\subsection*{1-1-2 Un nécromant en ville}
+
+Au temple on leur propose: Rencontre Temple démonistes (Mission 1-3-1) ou de ramener une preuve et une 
+localisation précise. Les paladins préviennent néanmoins les PJs qu'un nécromant capable de lever une
+armée de squelètes est certainement bien trop dangereux et ils doivent se contenter d'observer si il
+y a réellement un nécromancien dans les égoûts.
+
+Klermor d'Herinard -> Paladin au temple de la justice (Eril)
+
+Enquete dans les sous sols 
+ -> Quelques rats (bcp de rats morts)
+ -> Jet de survie DC15, en cas d'echecs tombe dans une embuscade de champignons -> 5 violet fungus MM 138
+ -> Trouve une "habitation" le necromant a fuit
+ -> Les PJs tombent dans une embuscade -> 2 spectres mineurs MM 279 dont un poltergeist -> HP 18 domages 2d6 +3 pour toucher.
+ -> Autel de pierre gravé de symboles étranges
+
+Retour au temple
+ -> C'est un signe d'un diable. Le nécromant a fait un pacte avec les enfers -> Azazel - Prince des enfers DC20 religion
+ -> Envoie les PJs surveiller le cimetière du sud pendant la nuit en attendant
+ -> Troisième nuit -> rencontre morts vivants -> rats nombreux si rien n'a été fait avec le tas de chez Orond -> 8 Giant zombie rats MM 327 -> fortitude du mort vivant MM316
+ -> Rencontre le gardien du cimetière Paire en fait le nécromancien déguisé -> leur indique l'origine des troubles, un mosollé -> 2 ghouls MM148
+ -> Découvrent un campement précaire
+
+Rapport au temple
+ -> Trop occupé avec un culte démoniaque qui prend de l'ampleur
+ -> Conseil aux PJs de garder le cimetière contre le nécromancien
+ -> Embuscade par des golems de bois qui remplaçaient des bancs
+ -> Attaque par deux espions MM349 de nuit chez eux
+
+
+\subsection*{1-1-3 En guerre contre la mort}
+
+Surveillance de divers cimetières
+ -> Finissent par attraper un groupe de pilleurs de tombe
+ -> Ils revendent les corps à la tour des mages, mais il est hors de question de témoigner
+
+
+
+1-2-1 Sur la piste du fungus
+
+Un alchimiste du nom de Ferrangus emploie les aventuriers pour aller chercher des champignons dans les
+égouts. La mission est identique à 1-1-1, cueillir les champignons nécessite un jet sleight of hand DC15
+si les PJs savent qu'il est dangereux. Sinon échec automatique. 1d6 dégats psy à cause des spores.
+
+1-2-2 ???
+
+1-3-1 Un culte turbulent
+
+Depuis quelques jours, les membres du temple du dieu de la justice (un groupe de clercs et paladins) 
+suspectent la présence de démonistes. Malheureusement c'est hors de la ville dans un faubourg 
+et donc sous la juridiction du duc qui n'est pas du tout interessé par ces histoires de religions.
+Les paladins ne peuvent intervenir directement, il souhaitent que les PJs aillent jeter un oeil.
+
+Étape 1: Le faubourg est pauvre et principalement habité par des ouvriers agricoles. Les aventuriers
+s'y rendent, si ils questionnent à propos d'une secte, ils sont attaqués par 3 acolytes MM342. Si ils
+trainent suffisamment dans le quartier avec un look assez pourri, ils se font alpaguer pour joindre le 
+culte à minuit. Sinon ils doivent faire parler un cultiste.
+-> Derrière l'auberge du fer à cheval se reunissent les membres du culte
+
+Étape 2: Surprendre les cultistes. Les PJs peuvent assister aux culte en tant que croyant ou en éspions.
+En tant que croyant, on leur demande de boire une coupe de sang "humain" (en fait du sang de cochon).
+Les cultistes ne semblent pas très dangereux. Par contre, si ils sont pris à éspionner ils se font 
+poursuivre par un groupe de paysans armés de gourdins MM345.
+
+Étape 3: Les PJs font leur rapport au culte. Ils se font jeter si ils ont tués des civils, les paladins ne 
+les étrippent pas simplement pour ne pas être impliqué. Sinon, les paladins proposent de payer plus pour 
+que les PJs continuent à enquêter sur le leader du culte.
+
+Étape 4: Les PJs peuvent essayer de coincer Bardan le gourou du culte (Fanatique MM345). Il ne parlera
+sous aucun pretexte. Les PJs s'aperoivent que c'est un vrai clerc d'un dieu démoniaque. Il porte sur lui 
+une amulette (CA+1), si ils ramènent au culte ceux-ci payent bien pour l'avoir récupérer. Sinon, le porteur 
+commence à faire des cauchemars.
+
+1-3-2 
