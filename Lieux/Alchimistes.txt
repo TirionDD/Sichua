@@ -143,10 +143,7 @@ informations volontairement.
   Potion de soins & 50 po \\
   Potion de poison & 100 po \\
    \rowcolor{LightCyan}
-  Élixir de santé & 125 po \\
   Potion de soins améliorés & 150 po \\
-   \rowcolor{LightCyan}
-  Potion de souffle de feu & 150 po \\
   Onguent de régénération & 150 po \\
    \rowcolor{LightCyan}
   Potion d'amitié animale & 200 po \\
@@ -161,7 +158,7 @@ informations volontairement.
   Potion de diminution & 250 po \\
   Potion de croissance & 250 po \\
    \rowcolor{LightCyan}
-  Potion de forme gazeuse & 300 po \\
+  Potion d'étât gazeux & 300 po \\
   Potion de résistance & 300 po \\
    \rowcolor{LightCyan}
   Potion de vitesse & 400 po \\
@@ -196,7 +193,7 @@ informations volontairement.
    \rowcolor{LightCyan}
   Potion de longévité* & 9000 po \\
 \end{tabular}
-\caption{Liste de potions \newline \small
+\caption{Description des potions page \pageref{potions} \newline \small
 * potions disponible uniquement chez Aquila Primus.\newline
 ** potion disponible uniquement chez Kaeso Hartar}
     \setlength{\tabcolsep}{6pt}
