@@ -111,31 +111,8 @@ du complexe de la guilde des alchimistes. Sa specialité est un poison à base
 de sang de Diantrefosse qui enverrait sa victime directement en enfer pour une
 éternité de supplices...
 
-\subsection{Accroche d'aventure}
 
-Vos aventuriers peuvent se rendre à la guilde pour différentes raisons. La plus
-commune est pour l'achat de potions. Dans ce cas, la taille et l'opulence de la 
-boutique à laquelle ils s'adresseront dépend de la valeur des potions qu'ils 
-achètent. Les membres du conseil de la guilde reçoivent généralement leurs clients 
-réguliers dans le salon d'honneur. Il est aussi possible de revendre un certain 
-nombre de plantes ou d'organes de créatures à la guilde. Néanmoins, un jet 
-d'arcane DD 15 est nécessaire pour savoir quelles sont les parties intéressantes 
-d'un monstre (s'il y en a) et un jet de nature DD 15 permet de les recueillir 
-sans les altérer. Les alchimistes sont ouverts au troc et sont toujours à la 
-recherche de matières premières, en cas de pénuries il peut même arriver qu'ils 
-passent des commandes directement aux aventuriers de passage. Il est aussi 
-possible que des aventuriers soient envoyés pour enquêter sur certaines 
-activités de la guilde. En particulier, il existe des rumeurs indiquant que 
-Krassius utiliserait des âmes humaines pour la construction de ses golems. 
-Évidemment, toute enquête sur un empoisonnement mènera à Kaeso qui peut en tant 
-qu'expert aider à trouver la nature d'un poison contre menu payement. Il 
-ne donnera néanmoins jamais d'indication sur ses clients et ne garde d'ailleurs 
-aucune note à leur sujet. On pourra seulement trouver des indications sur ses 
-ventes récentes dans ses livres de comptes, mais il ne partagera jamais ces 
-informations volontairement. 
-
-
-\begin{table}
+\begin{table}[t!]
     \setlength{\tabcolsep}{4pt}
 \begin{tabular}{lc}
   \bf Nom & \bf Prix \\
@@ -199,60 +176,27 @@ informations volontairement.
     \setlength{\tabcolsep}{6pt}
 \end{table}
 
+\subsection{Accroche d'aventure}
 
+Vos aventuriers peuvent se rendre à la guilde pour différentes raisons. La plus
+commune est pour l'achat de potions. Dans ce cas, la taille et l'opulence de la 
+boutique à laquelle ils s'adresseront dépend de la valeur des potions qu'ils 
+achètent. Les membres du conseil de la guilde reçoivent généralement leurs clients 
+réguliers dans le salon d'honneur. Il est aussi possible de revendre un certain 
+nombre de plantes ou d'organes de créatures à la guilde. Néanmoins, un jet 
+d'arcane DD 15 est nécessaire pour savoir quelles sont les parties intéressantes 
+d'un monstre (s'il y en a) et un jet de nature DD 15 permet de les recueillir 
+sans les altérer. Les alchimistes sont ouverts au troc et sont toujours à la 
+recherche de matières premières, en cas de pénuries il peut même arriver qu'ils 
+passent des commandes directement aux aventuriers de passage. Il est aussi 
+possible que des aventuriers soient envoyés pour enquêter sur certaines 
+activités de la guilde. En particulier, il existe des rumeurs indiquant que 
+Krassius utiliserait des âmes humaines pour la construction de ses golems. 
+Évidemment, toute enquête sur un empoisonnement mènera à Kaeso qui peut en tant 
+qu'expert aider à trouver la nature d'un poison contre menu payement. Il 
+ne donnera néanmoins jamais d'indication sur ses clients et ne garde d'ailleurs 
+aucune note à leur sujet. On pourra seulement trouver des indications sur ses 
+ventes récentes dans ses livres de comptes, mais il ne partagera jamais ces 
+informations volontairement. 
 
-\subsection{Nouvelles potions}
-
- - Onguent de régénération
-     L'application de l'onguent deux fois par jour durant plusieurs semaines 
-permet de faire repousser un membre perdu. Un traitement unique peut faire 
-disparaître une petite cicatrice, une semaine permet de retrouver quelques 
-phalanges et trois mois une jambe coupée juste sous le bassin. Durant la 
-période de repousse le sujet est la victime de violentes douleurs.
-
- - Poison des enfers
-     Poison à appliquer sur une arme tranchante ou perçante. Le poison agit 
-lors de la prochaine attaque réussie ou perd son pouvoir après une minute. Le
-poison cause 10d10 de dégâts ou la moitié si la victime réussit un jet de 
-sauvegarde de constitution DC 20. Si la cible est tuée par le poison, son âme
-est directement transportée aux enfers sous la forme d'un Lémure. 
-
- - Potion de soins complets
-     Lorsque vous buvez cette potion vous regagnez tous vos point de vie. Les
-potions de soins n'ont néanmoins plus d'effet sur vous durant les prochaines 
-48 heures.
-
- - Potion de souffle draconique
-Après avoir bu cette potion, vous pouvez utiliser une action bonus pour expirer 
-un souffle digne d'un dragon. Toutes les créatures situées dans un cône de 
-9 mètres doivent réussir un jet de sauvegarde DD 17 sans quoi chacune d'elles 
-subit 10d6 dégâts. En cas de réussite, les dégâts sont réduits de moitié. Le 
-souffle contourne les coins et affecte les objets qui ne sont pas portés ou 
-transportés. L'effet se termine après avoir utilisé ce souffle trois fois ou 
-après une heure. La potion peut être préparée pour différents types de dégâts 
-et de jet de sauvegarde: 
-
-Type	Dégâts	Jet de sauvegarde
-Blanc	Froid	Constitution
-Bleu	Foudre	Dextérité
-Noir	Acide	Dextérité
-Rouge	Feu	Dextérité
-Vert	Poison	Constitution
-
- - Potion d'immunité
-Lorsque vous buvez cette potion, vous gagnez une immunité à un type de dégâts 
-pendant 1 heure. Le MD choisit le type ou le détermine au hasard parmi les 
-options ci-dessous.
-
-d10	Type de dégâts
-1	Acide
-2	Froid
-3	Feu
-4	Force
-5	Foudre
-6	Nécrotique
-7	Poison
-8	Psychique
-9	Radiant
-10	Tonnerre
 
