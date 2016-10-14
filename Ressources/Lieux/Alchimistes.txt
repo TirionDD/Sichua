@@ -57,6 +57,7 @@ de la guilde ont toujours nié l'existence.
 
 \subsection{Quelques membres du conseil}
 
+\label{AquilaPrimus}
 {\bf Aquila Primus} est l'actuel Grand Alchimiste et maître de l'ordre. Sa famille
 détient les recettes les plus complexes et les secrets pour extraire l'essence
 des produits les plus rares. Les potions de sa fabrication sont d'une puissance
@@ -64,12 +65,14 @@ incomparable et on vient de très loin pour lui acheter ses produits. La rareté
 de sa production lui laisse tout le temps nécessaire pour s'occuper de la 
 gestion de la guilde et rencontrer ses partenaires commerciaux.
 
+\label{TiberiusHondar}
 {\bf Tiberius Hondar} est l'un des producteurs de potions de soins les plus réputés. 
 En particulier ses onguents de régénérations qui ont permis à tant de riches 
 clients de retrouver un doigt, un nez, voir parfois une jambe entière. Ce 
 miracle a néanmoins un coût : plusieurs milliers de pièces d'or par semaine de 
 traitement.
 
+\label{KrassiusEldark}
 {\bf Krassius Eldark} est un alchimiste atypique, car la spécialité de sa famille 
 depuis de nombreuses générations est la fabrication de golems. Lorsque vous 
 verrez l'un de ces petits golems de bois faire le service dans un hôtel 
@@ -103,6 +106,7 @@ d'or... Vous comprenez à présent pourquoi ils ne courent pas les rues.
     \setlength{\tabcolsep}{6pt}
 \end{table}
 
+\label{KaesoHartar}
 {\bf Kaeso Hartar} est le spécialiste incontesté des poisons et potions aux
 objectifs les plus discutables. Son rôle dans la fourniture des guildes
 d'assassins en fait un membre incontournable de la guilde. Il est néanmoins

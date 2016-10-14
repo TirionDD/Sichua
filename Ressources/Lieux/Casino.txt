@@ -12,6 +12,168 @@ de jeux, d'épais rideaux de velours rouge bloquent la lumière du jour,
 celle-ci est agréablement remplacée par un éclairage doux provenant de nombreux 
 chandeliers en argent aux styles disparates.
 
+\begin{figure}[b!]
+\center
+\fbox{%
+  \begin{minipage}[c]{.95\linewidth}
+    \label{AlastarGremet}
+    {\bfseries\LARGE\scshape Alastar Gremet} \\
+    Humain de taille M, loyal mauvais \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 11 \\
+    {\bfseries Points de vie} 17 \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 12 (+1) & 10 (+0) & 16 (+3) &  14 (+2) &  8 (-1) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Sens} Perception passive 12 \\
+    {\bfseries Langues} commun, comptable \\
+    {\bfseries Facteur de puissance} 0 (0 XP)\\
+    \noindent\rule{\textwidth}{1pt} \\
+Homme sans personnalité, son esprit semble avoir été taillé pour manier les 
+chiffres plutôt que les mots. Il est sans coeur et n'a aucun scrupule à 
+étrangler un client avec une dette excessive qui le mènera à la banqueroute et 
+la vente de ses biens. Mais n'attendez pas une pièce de cuivre de crédit si 
+vous n'avez rien pour assurer cet emprunt. Alastar est aussi le comptable du 
+cercle et le seul à vraiment comprendre l'état financier de l'entreprise qui 
+détient de nombreux emprunts, hypothèques et même les dépôts de certains
+joueurs chanceux ne souhaitant pas rentrer chez eux de nuit avec une grosse 
+somme.
+ \end{minipage}
+}%
+\end{figure}
+
+\begin{figure*}[tb!]
+\center
+\fbox{%
+  \begin{minipage}[c]{.45\linewidth}
+    \label{MeribaldDalloris}
+    {\bfseries\LARGE\scshape Meribald Dalloris} \\
+    Humain de taille M, neutre \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 14 (armure de cuir) \\
+    {\bfseries Points de vie} 58 (13d8) \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 16 (+3) & 10 (+0) & 17 (+3) &  12 (+1) & 14 (+2) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Sauvegardes} Dex +7, Int +7
+    {\bfseries Compétences} Discrétion +7, Escamotage +11, Intimidation +6, Intuition +9, 
+                            Persuasion +6, Représentation +10, Tromperie +10
+    {\bfseries Sens} Perception passive 14\\
+    {\bfseries Langues} commun, elfique, jargon des voleurs
+    {\bfseries Facteur de puissance} 8 (??? XP)\\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Attaque sournoise (1/tour).} Meribald inflige 21 (6d6) dégâts supplémentaires 
+               quand il touche une cible lors d'une attaque avec une arme et qu'il a 
+               l'avantage au jet d'attaque, ou lorsque la cible est 1,50 mètre ou moins d'un 
+               allié de l'assassin qui n'est pas incapable d'agir et si l'assassin n'a pas un 
+               désavantage à son jet d'attaque.
+    \subsection*{Actions}
+    {\bfseries Attaques multiples.} Meribald réalise deux attaques avec la rapière.\\
+    {\bfseries Rapière.} Corps à corps : +7 (1d8+3 perforant ; finesse)
+  \end{minipage}
+  \hspace{14pt}
+  \begin{minipage}[c]{.45\linewidth}
+Meribald provient des couches les plus populaires de la ville. Depuis son 
+plus jeune âge il observe tous ses riches personnages et s'étonne que des 
+imbéciles puissent être riche. Il a toujours pensé qu'il pourrait rétablir 
+quelque peu la balance en exploitant leurs faiblesses pour tirer des sommes 
+importantes de ces gens. Sa philosophie est simple, il respecte l'intelligence 
+et le savoir-faire. Maintenant qu'il a accumulé une petite fortune, dont le 
+joyaux est le bâtiment abritant le cercle de jeu, il met un point d'honneur à 
+ne recruter que des jeunes des classes populaires dans lesquels il reconnaît 
+un fort potentiel.
+
+Meribald a commencé sa carrière comme un joueur de taverne, son charisme et sa 
+prestance lui ont rapidement valu de monter en gamme et de passer des jeux de 
+tavernes à une pièce de cuivre le point aux salons de la ville haute à dix 
+pièces d'or par point. Évidemment sa réussite ne tient en rien au hasard et 
+c'est un maître de la triche, mais aussi un excellent acteur qui a toujours su 
+équilibrer ses jours de gains avec des pertes raisonnables pour ne jamais être 
+sérieusement soupçonné par ses partenaires. Sa méthode de triche favorite est 
+l'usage de dés pipés qu'il introduit subtilement à la table lorsque les mises 
+commencent à atteindre des mises inconfortablement élevées.
+
+A présent à la tête d'un établissement reconnu, d'une petite milice et d'un 
+réseau de renseignement efficace. Tout laisse à penser que Meribald va se 
+lancer en politique... 
+
+ \end{minipage}
+}%
+\end{figure*}
+
+\begin{figure*}[tb!]
+\center
+\fbox{%
+  \begin{minipage}[c]{.45\linewidth}
+    \label{GrimKramdac}
+    {\bfseries\LARGE\scshape Grim Kramdac alias Brise-Os} \\
+    Demi-orque de taille M, neutre \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 14 (armure de cuir) \\
+    {\bfseries Points de vie} 58 (13d8) \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 16 (+3) & 10 (+0) & 17 (+3) &  12 (+1) & 14 (+2) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries COPIER CHEVALIER} \\
+    {\bfseries Sauvegardes} Dex +7, Int +7 \\
+    {\bfseries Langues} commun, orque \\
+    {\bfseries Facteur de puissance} 8 (??? XP)\\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Attaque sournoise (1/tour).} Meribald inflige 21 (6d6) dégâts supplémentaires 
+               allié de l'assassin qui n'est pas incapable d'agir et si l'assassin n'a pas un 
+               désavantage à son jet d'attaque.
+    \subsection*{Actions}
+    {\bfseries Attaques multiples.} Meribald réalise deux attaques avec la rapière.\\
+    {\bfseries Rapière.} Corps à corps : +7 (1d8+3 perforant ; finesse)
+  \end{minipage}
+  \hspace{14pt}
+  \begin{minipage}[c]{.45\linewidth}
+Grim est un vétéran de l'armée qui a mené de nombreuses expéditions contre les 
+tribus d'orques et de gobelins environnantes. Sa qualité principale est qu'il 
+ne pose pas de question et se contente d'appliquer les ordres. Il a une seconde 
+qualité, sa largeur d'épaule impressionnante qui a un effet calmant sur les 
+fauteurs de troubles. Les débiteurs du cercle savent néanmoins que c'est 
+lorsqu'il frappe qu'il est le plus impressionnant, on ne s'en relève 
+généralement pas...
+
+Grim pourrait passer pour une sombre brute, mais il est en réalité plus 
+intelligent qu'il n'y parait et ce n'est pas par hasard que Meribald l'a 
+recruté. Il sait jongler entre les menaces physiques et d'autres ordres avec 
+talent. D'un petit lieutenant d'une tour de reconnaissance lointaine, il est 
+devenu une figure reconnue et respectée des hauts quartiers, il est largement 
+reconnaissant de cette ascension sociale envers Meribald. Il lui reconnaît 
+aussi une intelligence supérieure et lui est fidèle par intérêt, il sait que 
+ceux qui doublent Meribald finissent toujours dans le fossé. Il sait aussi que 
+quel que soit le gain matériel qu'il pourrait obtenir en trahissant son mentor, 
+il le payerait au long terme. Inutile donc d'essayer de le corrompre.
+
+ \end{minipage}
+}%
+\end{figure*}
+
+
+
 Aux rez-de-chaussée se trouve la réception avec un imposant escalier menant 
 aux premier et second étages. Les armes étant interdites dans l'établissement, 
 c'est ici que les visiteurs devront les laisser dans un vestiaire à cet effet. 
@@ -42,6 +204,102 @@ sur le mur si on ne visualise pas la clef du coffre, bien sûr seul Meribald
 sait quelle est cette pensée clé : le sceptre du Roi-Dieu. Finalement, sous 
 les toits un troisième étage se trouve un certain nombre de chambres où dorment 
 une partie des employés.
+
+\begin{figure}[p]
+\center
+\fbox{%
+  \begin{minipage}[c]{.95\linewidth}
+    \label{MainLegere}
+    {\bfseries\LARGE\scshape Elune et Solane MainLégère} \\
+    Halfelines de taille S, chaotiques bonnes \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 11 \\
+    {\bfseries Points de vie} 17 \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 12 (+1) & 10 (+0) & 16 (+3) &  14 (+2) &  8 (-1) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries COPIER ESPIONNE} \\
+    {\bfseries Sens} Perception passive 12 \\
+    {\bfseries Langues} commun, comptable \\
+    {\bfseries Facteur de puissance} 0 (0 XP)\\
+    \noindent\rule{\textwidth}{1pt} \\
+Elune et Solane MainLégère ont appris la triche au côté de Meribald dans les 
+bas quartiers. Celui-ci a vite reconnu leur talent et s'est empressé de les 
+faire travailler de l'autre coté des miroirs sans teint des plafonds de ses 
+salles de jeux où seul des halfelins sans trop d'embonpoint peuvent se glisser. 
+Expertes en triche, elles connaissent tous les coups tordus et signalent tout 
+tricheur à Grim.  Ceux-ci sont menés rapidement au sous-sol, la première fois 
+pour des remontrances musclées la seconde pour se faire passer à tabac 
+allègrement. Il arrive aussi que Meribald mette à l'amande ces joueurs et leur 
+fassent payer une pénalité financière, manière de prendre sa part sur toute 
+triche se déroulant sous son toit.
+
+L'architecture des pièces est telle que le son se transmet particulièrement 
+bien vers les conduits ou se glissent les deux halfelines et celle-ci en 
+profitent pour prendre des notes sur les confidences des clients. Toutes ses 
+informations sont consignées par Meribald dans des dossiers stockés dans son 
+coffre fort. On peut raisonnablement penser que ce dossier est en fait la chose 
+la plus précieuse de ce coffre... Néanmoins, Elune et Solane qui s'amusent 
+beaucoup de ce travail ne se préoccupent pas vraiment des grands desseins 
+de leur employeur. 
+ \end{minipage}
+}%
+\end{figure}
+
+\begin{figure}[p]
+\center
+\fbox{%
+  \begin{minipage}[c]{.95\linewidth}
+    \label{MainLegere}
+    {\bfseries\LARGE\scshape Eldrik de Mestarin} \\
+    Humain de taille S, Loyal neutre \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 11 \\
+    {\bfseries Points de vie} 17 \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 12 (+1) & 10 (+0) & 16 (+3) &  14 (+2) &  8 (-1) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries COPIER Noble} \\
+    {\bfseries Sens} Perception passive 12 \\
+    {\bfseries Langues} commun, comptable \\
+    {\bfseries Facteur de puissance} 0 (0 XP)\\
+    \noindent\rule{\textwidth}{1pt} \\
+Eldrik de Mestarin est un petit nobliau de province venu à Laelith pour briller 
+en société et gagner sa vie plus richement que dans son petit domaine. 
+Malheureusement, tout ne s'est pas passé comme prévu et le jeune homme a 
+rapidement laissé les filles de petite vertu et le cercle de jeu le dépouiller 
+de ses richesses. C'est lorsque tous ses biens furent hypothéqués qu'il se mit 
+à tricher pour essayer de s'en sortir. Le fait est que s'il avait peu de 
+jugeote pour l'argent, il est un plutôt bon tricheur, au point qu'Elune et 
+Solane ont mis plusieurs jours à le repérer. Mais Meribald s'est immédiatement 
+renseigné auprès d'Alastar, cela faisait apparemment plusieurs jour qu'Eldrik 
+gagnait fréquemment...
+
+Meribald fit une proposition qu'on ne peut refuser à Eldrik, ses halfelines 
+fermeraient les yeux sur sa triche en échange de la moitié de ses gains. Une 
+affaire pour Eldric à première vue, néanmoins lorsqu'on sait que la seconde 
+moitié des gains revient aussi à Meribald en payement des intérêts de dettes 
+passées... On comprend que la situation d'Eldrik n'est pas enviable. Mais c'est 
+cela ou Meribald fera jouer ses hypothèques sur le domaine d'Eldrik. Pour 
+Meribald, par contre c'est une manière de faire payer un supplément discret à 
+ses joueurs sans attirer l'attention de qui que ce soit. 
+ \end{minipage}
+}%
+\end{figure}
 
 Une partie plus méconnue de la bâtisse est son sous-sol, il est accessible par 
 un petit escalier discret. Celui-ci débouche dans la vaste salle de repos des 
@@ -88,8 +346,7 @@ qu'une poignée de gros bras. Cette méthode douce est d'autant plus utile
 lorsque le mauvais payeur est un personnage important qu'on ne peut pas 
 simplement molester dans une ruelle.
 
-
-Le jeu du dé d'or:
+\subsection*{Le jeu du dé d'or:}
 Jeu de dés traditionnel, c'est le plus joué des tavernes crapuleuses aux salons 
 les plus huppés. Le jeu se joue avec trois dés, deux argentés et un doré. Les 
 joueurs (de 4 à 6 en général) placent chacun une mise au centre de la table au 
@@ -109,150 +366,3 @@ pot même s'il est plus faible que le précédent. Notez qu'il n'est pas
 raisonnable de se lancer dans une partie sans au moins une cinquantaine de 
 mises initiales disponibles.
 
-
-Alastar Gremet (LM)
-Humain
-Points de vie 17
-Vitesse 9 m
-
-FOR 8 (-1)
-DEX 12 (+1)
-CON 10 (0)
-INT 16 (+3)
-SAG 14 (+2)
-CHA 8 (-1)
-
-Homme sans personnalité, son esprit semble avoir été taillé pour manier les 
-chiffres plutôt que les mots. Il est sans coeur et n'a aucun scrupule à 
-étrangler un client avec une dette excessive qui le mènera à la banqueroute et 
-la vente de ses biens. Mais n'attendez pas une pièce de cuivre de crédit si 
-vous n'avez rien pour assurer cet emprunt. Alastar est aussi le comptable du 
-cercle et le seul à vraiment comprendre l'état financier de l'entreprise qui 
-détient de nombreux emprunts, hypothèques et même les dépôts de certains
-joueurs chanceux ne souhaitant pas rentrer chez eux de nuit avec une grosse 
-somme.
-
-
-Grim Kramdac dit Brise-Os (N)
-Demi-orque Chevalier
-
-Grim est un vétéran de l'armée qui a mené de nombreuses expéditions contre les 
-tribus d'orques et de gobelins environnantes. Sa qualité principale est qu'il 
-ne pose pas de question et se contente d'appliquer les ordres. Il a une seconde 
-qualité, sa largeur d'épaule impressionnante qui a un effet calmant sur les 
-fauteurs de troubles. Les débiteurs du cercle savent néanmoins que c'est 
-lorsqu'il frappe qu'il est le plus impressionnant, on ne s'en relève 
-généralement pas...
-
-Grim pourrait passer pour une sombre brute, mais il est en réalité plus 
-intelligent qu'il n'y parait et ce n'est pas par hasard que Meribald l'a 
-recruté. Il sait jongler entre les menaces physiques et d'autres ordres avec 
-talent. D'un petit lieutenant d'une tour de reconnaissance lointaine, il est 
-devenu une figure reconnue et respectée des hauts quartiers, il est largement 
-reconnaissant de cette ascension sociale envers Meribald. Il lui reconnaît 
-aussi une intelligence supérieure et lui est fidèle par intérêt, il sait que 
-ceux qui doublent Meribald finissent toujours dans le fossé. Il sait aussi que 
-quel que soit le gain matériel qu'il pourrait obtenir en trahissant son mentor, 
-il le payerait au long terme. Inutile donc d'essayer de le corrompre.
-
-
-Elune et Solane MainLégère (CB)
-Halfelines Espionnes
-
-Elune et Solane MainLégère ont appris la triche au côté de Meribald dans les 
-bas quartiers. Celui-ci a vite reconnu leur talent et s'est empressé de les 
-faire travailler de l'autre coté des miroirs sans teint des plafonds de ses 
-salles de jeux où seul des halfelins sans trop d'embonpoint peuvent se glisser. 
-Expertes en triche, elles connaissent tous les coups tordus et signalent tout 
-tricheur à Grim.  Ceux-ci sont menés rapidement au sous-sol, la première fois 
-pour des remontrances musclées la seconde pour se faire passer à tabac 
-allègrement. Il arrive aussi que Meribald mette à l'amande ces joueurs et leur 
-fassent payer une pénalité financière, manière de prendre sa part sur toute 
-triche se déroulant sous son toit.
-
-L'architecture des pièces est telle que le son se transmet particulièrement 
-bien vers les conduits ou se glissent les deux halfelines et celle-ci en 
-profitent pour prendre des notes sur les confidences des clients. Toutes ses 
-informations sont consignées par Meribald dans des dossiers stockés dans son 
-coffre fort. On peut raisonnablement penser que ce dossier est en fait la chose 
-la plus précieuse de ce coffre... Néanmoins, Elune et Solane qui s'amusent 
-beaucoup de ce travail ne se préoccupent pas vraiment des grands desseins 
-de leur employeur. 
-
-
-Eldrik de Mestarin (LN)
-Humain Noble
-
-Eldrik de Mestarin est un petit nobliau de province venu à Laelith pour briller 
-en société et gagner sa vie plus richement que dans son petit domaine. 
-Malheureusement, tout ne s'est pas passé comme prévu et le jeune homme a 
-rapidement laissé les filles de petite vertu et le cercle de jeu le dépouiller 
-de ses richesses. C'est lorsque tous ses biens furent hypothéqués qu'il se mit 
-à tricher pour essayer de s'en sortir. Le fait est que s'il avait peu de 
-jugeote pour l'argent, il est un plutôt bon tricheur, au point qu'Elune et 
-Solane ont mis plusieurs jours à le repérer. Mais Meribald s'est immédiatement 
-renseigné auprès d'Alastar, cela faisait apparemment plusieurs jour qu'Eldrik 
-gagnait fréquemment...
-
-Meribald fit une proposition qu'on ne peut refuser à Eldrik, ses halfelines 
-fermeraient les yeux sur sa triche en échange de la moitié de ses gains. Une 
-affaire pour Eldric à première vue, néanmoins lorsqu'on sait que la seconde 
-moitié des gains revient aussi à Meribald en payement des intérêts de dettes 
-passées... On comprend que la situation d'Eldrik n'est pas enviable. Mais c'est 
-cela ou Meribald fera jouer ses hypothèques sur le domaine d'Eldrik. Pour 
-Meribald, par contre c'est une manière de faire payer un supplément discret à 
-ses joueurs sans attirer l'attention de qui que ce soit. 
-
-
-Meribald Dalloris (N)
-Humain, 
-CA 14 (armure de cuir 11, Dex +3)
-PV 58
-Vitesse 9 m
-
-For 8 (-1)   
-Dex 16 (+3)   
-Con 10 (+0)   
-Int 17 (+3)   
-Sag 12 (+1)   
-Cha 14 (+2)  
-
-Sauvegardes Dex +7, Int +7
-Compétences Discrétion +7, Escamotage +11, Intimidation +6, Intuition +9, 
-Persuasion +6, Représentation +10, Tromperie +10
-Langues commun, elfique, jargon des voleurs
-
-Attaque sournoise (1/tour). Un assassin inflige 21 (6d6) dégâts supplémentaires 
-quand il touche une cible lors d'une attaque avec une arme et qu'il a 
-l'avantage au jet d'attaque, ou lorsque la cible est 1,50 mètre ou moins d'un 
-allié de l'assassin qui n'est pas incapable d'agir et si l'assassin n'a pas un 
-désavantage à son jet d'attaque.
-
-ACTIONS
-Attaques multiples. Meribald réalise deux attaques avec la rapière.
-
-Rapière. Corps à corps : +7 (1d8+3 perforant ; finesse)
-
-Meribald provient des couches les plus populaires de la ville. Depuis son 
-plus jeune âge il observe tous ses riches personnages et s'étonne que des 
-imbéciles puissent être riche. Il a toujours pensé qu'il pourrait rétablir 
-quelque peu la balance en exploitant leurs faiblesses pour tirer des sommes 
-importantes de ces gens. Sa philosophie est simple, il respecte l'intelligence 
-et le savoir-faire. Maintenant qu'il a accumulé une petite fortune, dont le 
-joyaux est le bâtiment abritant le cercle de jeu, il met un point d'honneur à 
-ne recruter que des jeunes des classes populaires dans lesquels il reconnaît 
-un fort potentiel.
-
-Meribald a commencé sa carrière comme un joueur de taverne, son charisme et sa 
-prestance lui ont rapidement valu de monter en gamme et de passer des jeux de 
-tavernes à une pièce de cuivre le point aux salons de la ville haute à dix 
-pièces d'or par point. Évidemment sa réussite ne tient en rien au hasard et 
-c'est un maître de la triche, mais aussi un excellent acteur qui a toujours su 
-équilibrer ses jours de gains avec des pertes raisonnables pour ne jamais être 
-sérieusement soupçonné par ses partenaires. Sa méthode de triche favorite est 
-l'usage de dés pipés qu'il introduit subtilement à la table lorsque les mises 
-commencent à atteindre des mises inconfortablement élevées.
-
-A présent à la tête d'un établissement reconnu, d'une petite milice et d'un 
-réseau de renseignement efficace. Tout laisse à penser que Meribald va se 
-lancer en politique... 
