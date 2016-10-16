@@ -1,14 +1,28 @@
-Sur l'ilot ducal. Grand batiment carré avec une large cour interieure.
+\section{La Prison}
 
-L'aile en façade accueil les appartements des gardes et le bureau
-d'accueil des nouveaux prisonniers.
+\subsection{Description}
+
+Sur l'ilot ducal se trouve un large batiment carré à l'allure sombre
+tranchant avec les batiments officiels somptuairs. Ce batiment formé
+de quatre qiles qutour d'une large cour interieure est a prison de 
+Sichua.
+
+L'aile en façade accueil les appartements des gardes et les bureaux
+administratifs qui gèrent l'accueil des nouveaux prisonniers et 
+s'assure de la libération des pentionnaires ayant fini de servir leur
+temps. Un certain nombre de garde y ont aussi un petit appartement,
+ceci fait parti des privilèges du corps des gardes de la prison. Quoiqu'il
+ne soit pas très enviable d'habiter une prison, le simple fait d'avoir 
+un logement de fonction fait des postes de gardes des emplois prisés
+dans les couches les plus populaire de la ville et renforce la fidélité
+et la ``honêteté'' des gardes.
 
 L'aile gauche accueil les prisonniers basse sureté, que ce soit par leur
 origine, leur fortune ou le simple fait que leurs crimes sont mineurs. Ces
 prisonniers disposent d'une relative liberté dans la prison, les moins
 riches travaillant pour la prison à divers postes: cuisines, nettoyage
 de la cour, entretien des écuries ou simplement comme laquais pour 
-l'aile des nobles.
+l'aile des nobles. Dortoires conditions pas terribles
 
 L'aile de droite comporte diverses salles utilitaires. Les cuisines 
 (une pour l'aile des nobles, une 
@@ -56,7 +70,7 @@ largement isolé par de nombreuses portes, elles accueillent les prisonniers
 au secret. Ce sont des gardes qui s'occupe d'ammener la nourriture a ces 
 prisonniers.
 
-Enfin dans le dernier sous sol une étrange machine. Une cage de fer tenu 
+Dans le dernier sous sol du donjon se trouve une étrange machine. Une cage de fer tenu 
 par un cable, celle-ci peut descendre dans un tunel vertical fort profond
 jusqu'au lieu de détention des prisonnier de haute sécurité. Pour une 
 raison ou une autre, le juge ne pouvait pas pronnoncer la peine de mort
@@ -80,3 +94,6 @@ ce système magique rend la prison particulièrement définitive. Les ames de
 ceux qui meurent dans la prison ou dans le cercle d'execution sont piégées.
 Ces personnes ne peuvent ni rejoindre les enfers ni le paradis. Elles ne
 peuvent pas non plus être rescussités car leur ame reste prisonnière.
+
+PNJ: Le directeur, le bourreau, le chef de la garde, lien bestiaire pour les 
+gardes + liste de noms, deux trois prisonniers connus...

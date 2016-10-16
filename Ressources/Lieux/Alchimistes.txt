@@ -111,9 +111,9 @@ d'or... Vous comprenez à présent pourquoi ils ne courent pas les rues.
 objectifs les plus discutables. Son rôle dans la fourniture des guildes
 d'assassins en fait un membre incontournable de la guilde. Il est néanmoins
 très discret et son laboratoire est probablement la pièce la plus profonde
-du complexe de la guilde des alchimistes. Sa specialité est un poison à base 
-de sang de Diantrefosse qui enverrait sa victime directement en enfer pour une
-éternité de supplices...
+du complexe de la guilde des alchimistes. Sa specialité serait un poison à base 
+de sang de Diantrefosse qui, selon la rumeure, enverrait sa victime directement 
+en enfer pour une éternité de supplices...
 
 
 \begin{table}[t!]
@@ -122,7 +122,7 @@ de sang de Diantrefosse qui enverrait sa victime directement en enfer pour une
   \bf Nom & \bf Prix \\
    \rowcolor{LightCyan}
   Potion de soins & 50 po \\
-  Potion de poison & 100 po \\
+  Potion de poison** & 100 po \\
    \rowcolor{LightCyan}
   Potion de soins améliorés & 150 po \\
   Onguent de régénération & 150 po \\
@@ -169,7 +169,7 @@ de sang de Diantrefosse qui enverrait sa victime directement en enfer pour une
   Potion d'invulnérabilité* & 4000 po \\
   Potion de force de géant des tempêtes* & 5000 po \\
    \rowcolor{LightCyan}
-  Poison des enfers & 6000 po \\
+  Poison des enfers** & 6000 po \\
   Potion de soins complets* & 7000 po \\
    \rowcolor{LightCyan}
   Potion de longévité* & 9000 po \\
