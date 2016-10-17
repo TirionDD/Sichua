@@ -1,99 +1,264 @@
 \section{La Prison}
 
-\subsection{Description}
 
 Sur l'ilot ducal se trouve un large batiment carré à l'allure sombre
 tranchant avec les batiments officiels somptuairs. Ce batiment formé
-de quatre qiles qutour d'une large cour interieure est a prison de 
-Sichua.
+de quatre ailes autour d'une large cour interieure et courronné d'un donjon
+massif est la prison de Sichua.
 
-L'aile en façade accueil les appartements des gardes et les bureaux
-administratifs qui gèrent l'accueil des nouveaux prisonniers et 
-s'assure de la libération des pentionnaires ayant fini de servir leur
-temps. Un certain nombre de garde y ont aussi un petit appartement,
+\subsection{Aile Sud}
+
+L'aile nord accueil en son centre la porte d'entrée de la prison et forme 
+la façade donnant sur la grande rue. Elle accueille 
+les appartements des gardes et les bureaux
+administratifs. C'est ici que sont géré l'accueil des nouveaux prisonniers et 
+la libération des pentionnaires ayant fini de servir leur
+peine. Un certain nombre de garde y ont aussi un petit appartement,
 ceci fait parti des privilèges du corps des gardes de la prison. Quoiqu'il
 ne soit pas très enviable d'habiter une prison, le simple fait d'avoir 
-un logement de fonction fait des postes de gardes des emplois prisés
-dans les couches les plus populaire de la ville et renforce la fidélité
-et la ``honêteté'' des gardes.
+un logement de fonction en plein centre de la ville renforce l'attrait 
+des postes de garde. Cet emploi est particulièrement prisé
+dans les couches les plus populaire de la ville et le statut qu'il offre renforce la fidélité
+et l'honêteté des gardes.
 
-L'aile gauche accueil les prisonniers basse sureté, que ce soit par leur
-origine, leur fortune ou le simple fait que leurs crimes sont mineurs. Ces
-prisonniers disposent d'une relative liberté dans la prison, les moins
-riches travaillant pour la prison à divers postes: cuisines, nettoyage
+\begin{figure}[b!]
+\center
+\fbox{%
+  \begin{minipage}[c]{.95\linewidth}
+    \label{GermardHertac}
+    {\bfseries\LARGE\scshape Germar d'Hertac} \\
+    Humain de taille M, neutre \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 11 \\
+    {\bfseries Points de vie} 17 \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 12 (+1) & 10 (+0) & 16 (+3) &  14 (+2) &  8 (-1) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Sens} Perception passive 12 \\
+    {\bfseries Langues} commun, comptable \\
+    {\bfseries Facteur de puissance} STAT d'un guerrier (0 XP)\\
+    \noindent\rule{\textwidth}{1pt} \\
+Quatrième fils d'une petite famille noble, Garmar a toujours su qu'il n'aurait 
+rien d'autre que son nom en héritage. Il a donc rapidement décidé de se lancer 
+dans le metier des armes. Après quelques
+campagnes avec le club des chasseurs, il a pris conscience du danger que pouvait 
+comporter ces expéditions. Les excursions militaires du duc étant encore plus
+risqués, Garmar utilisat ses relations pour obtenir un poste de garde à la prison.
+Son statut de noble et son intelligence sociale lui ont rapidement permis de 
+monter dans la hierarchie de la prison. Il est à présent le capitaine de la
+garde et déjeune avec le directeur Herinos tous les jours pour lui faire son
+rapport sur la securité de la prison.
+
+Pour Garmar la question se pose à présent de trouver un moyen de s'établir
+avec une jeune femme de meilleure fortune que lui.
+C'est avec cet objectif en tête qu'il se comporte avec la plus grande 
+diligence auprès des puissants, nobles ou bourgeois, de la prison.
+ \end{minipage}
+}%
+\end{figure}
+
+
+\subsection{Aile Est}
+
+L'aile est accueille les prisonniers de basse suretée, que ce soit par leur
+origine, leur fortune ou le simple fait que leurs crimes soient mineurs. Ces
+prisonniers disposent d'un traitement de faveur et d'une relative liberté 
+dans la prison, les moins
+riches travaillent pour la prison à divers postes: cuisines, nettoyage
 de la cour, entretien des écuries ou simplement comme laquais pour 
-l'aile des nobles. Dortoires conditions pas terribles
+des nobles résidents de l'aile nord. Les dortoires y sont bondés mais 
+sont installés dans de grandes salles bien aérée. Pour certains des
+pentionnaires des couches les plus populaires, cette aile de la prison
+est une aubaine et on dit que certains prisonniers agés sont ici bien
+au-delà de leur peine initiale, mais ne veulent simplement plus partir.
+Non pas que la vie dans le quartier basse suretée soient très comfortable,
+mais elle assure un toit et un niveau de violence bien plus limité que certains
+faubourgs de la ville. La direction ferme les yeux sur ces prisonniers car
+ils forment une main d'oeuvre au coût très limité et une source d'information
+fiable sur les activités des autres pensionnaires.
 
-L'aile de droite comporte diverses salles utilitaires. Les cuisines 
-(une pour l'aile des nobles, une 
-pour les gardes et unes pour les prisonniers communs. Les écuries se 
+\subsection{Aile Ouest}
+
+L'aile ouest comporte diverses salles utilitaires, en particulier les cuisines 
+qui fournissent des repas différents pour l'aile nord, pour les gardes et pour 
+les prisonniers communs. Les écuries se 
 trouvent aussi dans cette aile, on y trouve quelques chevaux de trait pour
-les carosses de prisonniers utilisé par la garde pour aller chercher 
-leurs clients. On y trouve aussi quelques salles d'audience, utilisé par
-les juges qui considère trop dangereux de transporté un prisonnier hors de
-la prison jusqu'au tribunal pourtant très proche. Ces salles peuvent aussi
-servir aux interogatoires qui se doivent de rester secret. Enfin cette aile
+les carosses de prisonniers utilisés par la garde pour les transfers vers les 
+différentes cours de justice de la ville. On y trouve aussi quelques salles d'audience, utilisé par
+les juges qui considèrent trop dangereux de transporter un prisonnier hors de
+la prison jusqu'au tribunal. Ces salles peuvent aussi
+servir aux interogatoires que les autorités veulent garder secrets. Enfin cette aile
 accueil le logement du bourreau de la prison. Celui-ci dispose d'une porte 
 vers l'exterieur et ne se montre jamais dans la prison sans sa cagoule 
 noire. Sa seule vue fait frissonner toutes la prison jusque dans ses 
 entrailles.
 
+\begin{figure}[b!]
+\center
+\fbox{%
+  \begin{minipage}[c]{.95\linewidth}
+    \label{Ystar}
+    {\bfseries\LARGE\scshape Ystar} \\
+    Nain de taille M, loyal mauvais \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 11 \\
+    {\bfseries Points de vie} 17 \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 12 (+1) & 10 (+0) & 16 (+3) &  14 (+2) &  8 (-1) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Sens} Perception passive 12 \\
+    {\bfseries Langues} commun, comptable \\
+    {\bfseries Facteur de puissance} STAT d'un sorcier (0 XP)\\
+    hache buveuse d'ame
+    \noindent\rule{\textwidth}{1pt} \\
+Ystar est un nain de la communauté de la colline du phare,
+c'est aussi le bourreau de la prison de Sichua. Depuis sa jeunesse
+Ystar est fasciné par la mort et les arts occultes. Lors de ses recherches
+dans les bibliothèques naines, Ystar a retrouvé des documents datant
+de la construction de la prison. Il a alors décidé de s'y rendre pour en
+comprendre le pouvoir, ses études l'ont lié à la prison d'une manière
+unique et les runes inscrites sur sa hache lui permettent de communiquer
+avec les ésprits prisonniers. Ystar tire de la prison un pouvoir personel
+hors du commun, néanmois c'est un jeu dangereux et Ystar est loin d'être 
+qualifié pour pratiqué une telle magie. Si Herinos venait à apprendre à quoi
+joue son bourreau, Ystar serait sans aucun doute immédiatement remplacé et 
+très certainement la première victime de son successeur!
+ \end{minipage}
+}%
+\end{figure}
+
+
+\subsection{Aile Nord}
+
 Au fond de la prison se trouve l'aile des nobles. Celle-ci donne 
 directement sur la rivière. Le directeur de la prison y habite avec sa 
 famille, dans des appartements luxueux, d'autres appartements y sont 
 réservés à la haute noblesse et bourgeoisie. Pour des raisons de paix 
-sociale il arrive qu'un juge se voit forcé de condamner une personne
-de haut rangs, celle-ci va alors vivre dans ce petit havre de paix en bors
-de rivière où ils peuvent recevoir qui ils souhaitent. On voit même 
+sociale dans la ville, il arrive qu'un juge se voit forcé de condamner une personne
+de haut rangs, celle-ci va alors vivre dans ce petit havre de paix en bord
+de rivière. On voit 
 de temps à autres des figures cagoulés se glisser dans 
-des barques depuis la prison. Ce sont généralement ces prisonniers, il est 
+des barques depuis la prison. Ce sont généralement ces prisonniers, car il est 
 toléré par la direction qu'ils puissent s'absenter quelques jours de temps 
 à autre, on leur demande simplement de ne pas trop se montrer en ville 
-tant que leur peine n'est pas finit.
+tant que leur peine n'est pas officiellement terminée.
 
-Enfin au centre de la cour un énorme donjon de granit d'une trentaine de
+\begin{figure}[b!]
+\center
+\fbox{%
+  \begin{minipage}[c]{.95\linewidth}
+    \label{ErinosdHarmar}
+    {\bfseries\LARGE\scshape Herinos d'Harmar} \\
+    Humain de taille M, loyal neutre \\
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Classe d'armure} 11 \\
+    {\bfseries Points de vie} 17 \\
+    {\bfseries Vitesse} 9 m \\
+    \noindent\rule{\textwidth}{1pt} \vskip 2pt
+    \setlength{\tabcolsep}{4pt}
+      {\footnotesize 
+    \begin{tabular}{cccccc}
+      \bf FOR & \bf DEX & \bf CON & \bf INT & \bf SAG & \bf CHA \\
+       8 (-1) & 12 (+1) & 10 (+0) & 16 (+3) &  14 (+2) &  8 (-1) \\
+    \end{tabular} }
+    \setlength{\tabcolsep}{6pt}
+    \noindent\rule{\textwidth}{1pt} \\
+    {\bfseries Sens} Perception passive 12 \\
+    {\bfseries Langues} commun, comptable \\
+    {\bfseries Facteur de puissance} STAT d'un mage (0 XP)\\
+    \noindent\rule{\textwidth}{1pt} \\
+Herinos est un noble à la formation de magicien. Les membres de sa famille
+dirigent la prison depuis de nombreuses générations et en connaissent tous les 
+secrets. Herinos à remplis son devoir familliale depuis son plus jeune age et
+suivi une formation de nécromancien à la tour phare pendant sa jeunesse pour 
+prendre en charge la prison après son père. Il entretient les sortilèges de 
+protection de la prison et dirige tous les aspects de la prison. Son poste est 
+très réspécté en ville et rare sont ceux qui se confronte à sa famille. 
+
+Herinos est un homme droit et peut enclun à profiter de manière abusive de
+sa position, mais il connait tout de même ses intêrets et ne laissera personne
+mettre en doute l'efficacité de sa prison ou son autorité sur cette institution.
+ \end{minipage}
+}%
+\end{figure}
+
+\subsection{Donjon}
+
+Au centre de la cour un énorme donjon de granit d'une trentaine de
 mètres est entouré d'une fosse
-d'une dizaine de mètres de font. Devant la porte, avant la tranchée, un 
-cercle est tracé au sol
-par des dalles de granit, c'est le lieu des executions. Dans la tour,
-le rez de chaussé est occupé par la salle des gardes. Les etages sont 
-emplis de cellules aux portes de fer. Celle-ci sont scellé à 
-l'emprisonnement et seulement déscellé pour une libération ou une 
+d'une dizaine de mètres de fond. Devant la porte, un 
+cercle de dalles de granit d'une dizaine de mètres de diamètre sert de lieu 
+d'executions. Dans la tour,
+le rez de chaussé est occupé par la salle des gardes. Les étages sont 
+remplis de cellules aux portes de fer. Celle-ci sont scellée lors de 
+l'emprisonnement et seulement déscellée pour une libération ou une 
 execution. Dans ces cellules sont gardés les prisonniers de moyennes 
-sécurités. Sauf dans le dernier étage ou se trouve les cellules des 
-condamnés à mort. Une petite trappe dans chaque porte permet d'apporter 
-les repas et de sortir les bacs de commodités. Ce travail est effectué par 
-des prisonniers de basse sécurité de confiance. Généralement d'ancien 
-mendiant qui ne voudrait être libéré sous aucun prétexte car la prison
-leur offre un toit et la nourriture. Au sous sols quelques cellules sont 
-largement isolé par de nombreuses portes, elles accueillent les prisonniers 
-au secret. Ce sont des gardes qui s'occupe d'ammener la nourriture a ces 
+sécurités. Au dernier étage, se trouvent les cellules des 
+condamnés à mort qui descendent le grand escalier en collimasson passant
+devant chaque cellule pour leure dernière sortie. Une petite trappe dans 
+la porte de chaque cellule permet d'apporter 
+les repas et de sortir les bacs de commodités chaque jours. Ce travail est effectué par 
+des prisonniers de basse sécurité de confiance. Généralement d'anciens 
+mendiants qui ne voudraient être libéré sous aucun prétexte. Au sous-sol quelques cellules sont 
+isolées par de nombreuses portes, elles accueillent les prisonniers 
+au secret. Ce sont des gardes qui s'occupent d'ammener la nourriture a ces 
 prisonniers.
 
 Dans le dernier sous sol du donjon se trouve une étrange machine. Une cage de fer tenu 
 par un cable, celle-ci peut descendre dans un tunel vertical fort profond
 jusqu'au lieu de détention des prisonnier de haute sécurité. Pour une 
 raison ou une autre, le juge ne pouvait pas pronnoncer la peine de mort
-ou alors est-ce une peine pire que la mort? Au fond de ce tunnel une grande
-salle sphérique. Les murs sont d'admantium pur épais de plusieurs 
-centimètres. Un garde descend chaque jour dans la cage pour nourrire les 
-survivants de cette salle. Parfois le garde ne remonte pas et un prisonnier 
-prend sa place. Lorsque cela arrive, les gardes redescendent la cage et 
-laissent les prisonniers sans nourriture une semaine ou deux si cela ne
-suffit pas les gardes ont la possibilités de lacher des feux gréjoix
-dans la cellule et de bruler tous les prisonniers vifs.
+ou alors souhaitait il une peine pire que la mort? Au fond de ce tunnel une grande
+salle sphérique. Les murs sont fait d'admantium pur, épais de plusieurs 
+centimètres. Un garde descend chaque jour les rations dans la cage pour nourrire les 
+survivants de cette salle. Parfois un prisonnier 
+essaye de remonter avec l'ascenceur. Lorsque cela arrive, les gardes redescendent la cage et 
+laissent les prisonniers sans nourriture quelques jours. L'ascenceur n'est utilisé
+que pour apporter de nouveaux prisonniers, jamais pour en sortir un. En cas de
+problème ou si ils soupçonnent une tentative de fuite, les gardes ont la possibilités 
+de déverser des feux gréjoix dans le tunnel et de bruler tous les prisonniers 
+haute-sécurité vifs.
+
+\subsection{La Prison des Esprits}
 
 Le secret de la sécurité du donjon est sa protection magique. La prison
-agit comme un aimant pour les ésprits de ceux qui y meurent fournissant
-une énergie importante à la prison. La force de ses ames est prete à tout 
-pour empecher la moindre évasion. Les esprits bloquent ainsi toutes 
-tentatives de teleportation et reconstruisent murs et barreaux de fenetres
-continuellement. Si quelqu'un venait à se rendre sur le toit du donjon il 
-serait immediattement attaqué par des ordes de spèctres. Par ailleurs,
-ce système magique rend la prison particulièrement définitive. Les ames de
-ceux qui meurent dans la prison ou dans le cercle d'execution sont piégées.
-Ces personnes ne peuvent ni rejoindre les enfers ni le paradis. Elles ne
-peuvent pas non plus être rescussités car leur ame reste prisonnière.
+agit comme un aimant pour les ésprits de ceux qui y meurent, fournissant
+l'énergie magique nécessaire à la prison. Ces âmes damnées assoifées de vengence
+contre les vivants sont prêtes à tout 
+pour empecher la moindre évasion. L'énergie des ésprits alimente la magie de 
+la prison et bloque toutes 
+tentatives de teleportation que ce soit depuis ou vers la prison. La magie est d'une
+puissance telle qu'elle reconstruit aussi murs et barreaux de fenètres
+continuellement. Enfin, si quelqu'un venait à attérir sur le toit du donjon, il 
+serait immédiattement attaqué par des spèctres (ajout ref. précise ???).
+Ce système de protection magique a une conséquence particulerement effrayante,
+la prison de Sichua permet de garder ses prisonniers même après la mort.
+Les ames de
+ceux qui meurent dans la prison ou dans le cercle d'exécution sont en effet piégées et
+ces personnes ne peuvent rejoindre ni les enfers ni le paradis. Enfin elles ne
+peuvent pas non plus être rescussités... Cette caratéristique de la prison est peu connue
+en ville, car les autorités préfèrent rester discrètes à ce sujet. Il n'y a
+en effet pas de moyen pour la prison de différencier les
+gardes des prisonniers, ainsi les gardes mourrant dans l'enceinte de la prison
+subissent le même sort que les prisonniers, or une telle nouvelle rendrait le 
+recrutement de nouveaux gardes significativement plus difficile...
 
-PNJ: Le directeur, le bourreau, le chef de la garde, lien bestiaire pour les 
+
+PNJ: lien bestiaire pour les 
 gardes + liste de noms, deux trois prisonniers connus...
+
+
