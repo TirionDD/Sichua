@@ -1,26 +1,41 @@
 Plan de campagne:
 
-Troubles à Sichua
-1 Découverte d'un des adversaires secondaires 1-3
-2 Les PJs s'en occupent eux même et tuent l'adversaire 4-5
+Troubles à Sichua \\
+1 Découverte d'un des adversaires secondaires 1-3 \\
+2 Les PJs s'en occupent eux même et tuent l'adversaire 4-5 \\
 
-La mort aux trousses
+La mort aux trousses \\
 3 Leur principal commenditaire est assassiné en réponse
   Les PJs doivent remonter au meurtriers que la garde ne semble pas pressé de trouver 6-7
-  Tentative d'assassinat contre les PJs avant d'arriver au but
+  Tentative d'assassinat contre les PJs avant d'arriver au but \\
 4 Avec les papiers du maitre assassin les PJs retrouve tous les adverssaires secondaires 8-9
-  Les adversaires secondire répliquent massivement 10
+  Les adversaires secondire répliquent massivement 10 \\
 
-Le cerveau se révèle
+Le cerveau se révèle \\
 5 Les PJs infiltrent le donjon de la guilde des voleurs et combattent la liche ou vampire selon niveau 10
-  Détruisent les alliés de la liche et comprennent qu'elle n'est surement pas défaite définitivement 11
+  Détruisent les alliés de la liche et comprennent qu'elle n'est surement pas défaite définitivement 11 \\
 6 Prise d'assaut de la maison van Hjelmaster 12
+  Enquete dans les décombres -> La ville surplombe un important réseau d'outre terre abandonné par tous \\
 
+Une nouvelle menace \\
+7 Créatures puissantes dans les environs -> proviennent d'outre terre 13-14
+  Le death knight s'enerve \\
+8 Descente dans l'outre terre -> Découvre le monde de la liche et tue sa monture une ombre dragon 15
+  Enquête, quel est le plan de la liche? Compréhension et remonté en urgence \\
 
-Adversaire principal:
+Un nouveau monde \\
+9 Interrompre l'incantation d'un portail par la liche 16 \\
+10 En cas de succès aller la dénicher dans la grande tour des mages où elle est réfugié \\
+10 bis En cas d'echec, vaincre les démons qui ravage la ville 17 \\
+
+Epilogue \\
+11 Se débarrasser du prince démon qui veut absolument prendre la fontaine de vie \\
+11 bis Aller tuer la liche dans les abysses \\
+
+Adversaire principal pour la mort aux trousses:
 
 Johan van Hjelmaster
- - Liche (ancien noble)
+ - Vampire (ancien noble)
  - De grande intelligence c'est maître du crime organisé
  - Il utilise principalement l'entrisme, le chantage et les assissinats
  - Sa faiblesse est sa femme qu'il n'a pas pu conserver en vie. Il conserve son corps religieusement.
@@ -47,10 +62,15 @@ L'ombre de Sichua
    victimes à la recherche de dossiers incriminant pour leur proches.
  - C'est un gros joueur, il laisse pas mal d'argent Aux Dés d'Argent
 
+Alchimiste maitre Golem
+
+Demoniste sorcier
 
 
-Alliés possibles:
+Alliés possibles pour la mort aux trousses: \\
 
-Chambellan du quartier
+Chambellan du quartier \\
 
-Alchimiste
+Chef des transporteurs de rue de la guilde des alchimistes \\
+
+Chef Paladin du temple \\
