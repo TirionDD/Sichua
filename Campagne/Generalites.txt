@@ -1,36 +1,55 @@
-Plan de campagne:
 
-Troubles à Sichua \\
-1 Découverte d'un des adversaires secondaires 1-3 \\
-2 Les PJs s'en occupent eux même et tuent l'adversaire 4-5 \\
+\section{Introduction}
 
-La mort aux trousses \\
-3 Leur principal commenditaire est assassiné en réponse
-  Les PJs doivent remonter au meurtriers que la garde ne semble pas pressé de trouver 6-7
-  Tentative d'assassinat contre les PJs avant d'arriver au but \\
-4 Avec les papiers du maitre assassin les PJs retrouve tous les adverssaires secondaires 8-9
-  Les adversaires secondire répliquent massivement 10 \\
+La campagne troubles à Sichua permet d'exploité une grande partie des lieux présentés dans la partie 
+précédente. Elle est composée de nombreuses séquences indépendentes qui peuvent être jouées indépendament
+ou intégrées dans une campagne différente. Le nombre d'aventures proposées dans la campagne est 
+volontairement important. Les joueurs n'en effectuent qu'une fraction et peuvent
+se dirgier vers les différentes parties de la campagne librement. 
 
-Le cerveau se révèle \\
-5 Les PJs infiltrent le donjon de la guilde des voleurs et combattent la liche ou vampire selon niveau 10
-  Détruisent les alliés de la liche et comprennent qu'elle n'est surement pas défaite définitivement 11 \\
-6 Prise d'assaut de la maison van Hjelmaster 12
-  Enquete dans les décombres -> La ville surplombe un important réseau d'outre terre abandonné par tous \\
+Lors de la campagne les menaces se multiplient en ville et celles qui ne sont pas circoncites par les 
+joueurs prennent de l'ampleur et forment la base pour des menaces futures. Au fur et à mesure de la campagne
+les joueurs en apprennent plus sur l'histoire de Sichua et la menace qui pèse sur la ville.
 
-Une nouvelle menace \\
-7 Créatures puissantes dans les environs -> proviennent d'outre terre 13-14
-  Le death knight s'enerve \\
-8 Descente dans l'outre terre -> Découvre le monde de la liche et tue sa monture une ombre dragon 15
+\section{Plan de Campagne}
+
+{\bfseries Troubles à Sichua} \\
+{\bf 1} Découverte d'un des adversaires secondaires {\it 1-3} \\
+{\bf 2} Les PJs s'en occupent eux même et tuent l'adversaire {\it 4-5} \\
+
+{\bf La mort aux trousses} \\
+{\bf 3} Leur principal commenditaire est assassiné en réponse
+  Les PJs doivent remonter au meurtriers que la garde ne semble pas pressé de trouver.
+  Tentative d'assassinat contre les PJs avant d'arriver au but {\it 6-7}. \\
+{\bf 4} Avec les papiers du maitre assassin les PJs retrouve tous les adverssaires secondaires {\it 8-9}.
+  Les adversaires secondaires répliquent massivement {\it 10}. \\
+
+{\bf Le cerveau se révèle} \\
+{\bf 5} Les PJs infiltrent le donjon de la guilde des voleurs et combattent le vampire {\it 10}.
+  Ils détruisent ses alliés et comprennent qu'il n'est surement pas défait définitivement {\it 11} \\
+{\bf 6} Prise d'assaut de la maison van Hjelmaster {\it 12}.
+  Enquete dans les décombres, la ville surplombe un important réseau d'outre terre abandonné par tous. \\
+
+{\bf Une nouvelle menace} \\
+{\bf 7} Créatures puissantes dans les environs -> proviennent d'outre terre {\it 13-14}.
+  Le death knight s'énèrve. \\
+{\bf 8} Descente dans l'outre terre et découvrerte du monde de la liche. 
+  Les joueurs tuent sa monture une ombre dragon {\it 15}.
   Enquête, quel est le plan de la liche? Compréhension et remonté en urgence \\
+  La liche compte ouvrir un portail vers les abysses et attirer de puissants princes démons sur Sichua. 
+  Pendant se temps la liche compte se rendre dans les abysses et s'y tailler un royaume alors que les plus 
+  puissants démons sont affaiblis par leur guerre dans le plan materiel. \\
 
-Un nouveau monde \\
-9 Interrompre l'incantation d'un portail par la liche 16 \\
-10 En cas de succès aller la dénicher dans la grande tour des mages où elle est réfugié \\
-10 bis En cas d'echec, vaincre les démons qui ravage la ville 17 \\
+{\bf Un nouveau monde} \\
+{\bf 9} Interrompre l'incantation d'un portail par la liche {\it 16}. \\
+{\bf 10} En cas de succès aller la dénicher dans la grande tour des mages où elle s'est réfugiée {\it 17}. \\
+{\bf 10 bis} En cas d'echec, vaincre les démons qui ravagent la ville {\it 17}. \\
 
-Epilogue \\
-11 Se débarrasser du prince démon qui veut absolument prendre la fontaine de vie \\
-11 bis Aller tuer la liche dans les abysses \\
+{\bf Epilogue} \\
+{\bf 11} Se débarrasser du prince démon qui veut absolument prendre la fontaine de vie. \\
+{\bf 11 bis} Aller tuer la liche dans les abysses. \\
+
+\section{A déplacer}
 
 Adversaire principal pour la mort aux trousses:
 
