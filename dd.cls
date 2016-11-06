@@ -32,6 +32,8 @@
 
 \definecolor{LightCyan}{rgb}{0.85,1,0.90}
 
+\setcounter{tocdepth}{1}
+
 \twocolumn
 \setlength{\columnsep}{1.2cm}
 
