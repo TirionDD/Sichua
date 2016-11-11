@@ -46,6 +46,7 @@ grands chasseurs ayant éliminé des créatures particulièrement dangereuses.
 
 Dirigeants du club:
 Doyen:
+ Baron d'Erbil
 
 Secrétaire:
  - Enregistre les informations sur chaque chasse
@@ -68,4 +69,7 @@ Trésorier:
     Salon ou les membres peuvent se réunir, manger etc quant ils le 
     souhaitent.
 
--> ajouter biblio de zoologie reservé aux membres
+-> ajouter bibliothèque de zoologie reservé aux membres
+
+-> Liste de membres PNJ ailleurs:
+    - Klermor d'Herinar
