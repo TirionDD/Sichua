@@ -32,12 +32,12 @@ les joueurs en apprennent plus sur l'histoire de Sichua et la menace qui pèse s
 
 {\bf Une nouvelle menace} \\
 {\bf 7} Créatures puissantes dans les environs -> proviennent d'outre terre {\it 13-14}.
-  Le death knight s'énèrve. \\
-{\bf 8} Descente dans l'outre terre et découvrerte du monde de la liche. 
-  Les joueurs tuent sa monture une ombre dragon {\it 15}.
+  Le death knight s'énèrve, il est pris de folies par moments. \\
+{\bf 8} Descente dans l'outre terre et découvrerte du monde de la liche flageleuse mentale. 
+  Les joueurs tuent un nombre important de monstruosités, mais la liche prend la fuite sur un vers geant {\it 15}.
   Enquête, quel est le plan de la liche? Compréhension et remonté en urgence \\
   La liche compte ouvrir un portail vers les abysses et attirer de puissants princes démons sur Sichua. 
-  Pendant se temps la liche compte se rendre dans les abysses et s'y tailler un royaume alors que les plus 
+  Pendant ce temps la liche compte se rendre dans les abysses et s'y tailler un royaume pendant que les plus 
   puissants démons sont affaiblis par leur guerre dans le plan materiel. \\
 
 {\bf Un nouveau monde} \\
@@ -49,47 +49,3 @@ les joueurs en apprennent plus sur l'histoire de Sichua et la menace qui pèse s
 {\bf 11} Se débarrasser du prince démon qui veut absolument prendre la fontaine de vie. \\
 {\bf 11 bis} Aller tuer la liche dans les abysses. \\
 
-\section{A déplacer}
-
-Adversaire principal pour la mort aux trousses:
-
-Johan van Hjelmaster
- - Vampire (ancien noble)
- - De grande intelligence c'est maître du crime organisé
- - Il utilise principalement l'entrisme, le chantage et les assissinats
- - Sa faiblesse est sa femme qu'il n'a pas pu conserver en vie. Il conserve son corps religieusement.
- - Demeurre avec la dépouille de sa femme dans les sous-sols de la guilde des voleurs, il la controle 
-   en sous-main
- - Son Phylactery se trouve dans la maison de sa famille
- - Il est le dirigeant de fait de sa famille
- - Il veut prendre le pouvoir, considère le duc un faible car il partage le controle de la ville
-
-Adversaires secondaires:
-
-Soren van Hjelmaster
- - Nécromancien (famille noble)
- - Professeur de nécromancie à l'école de la tour phare
- - Il lui arrive de se déguiser pour passer innaperçu
- - Il se rend dans différends lieux de la ville pour faire ses expériences
-
-L'ombre de Sichua
- - Assassin orphelin sans aucun véritable nom.
- - Sans aucune famille, une seule chose compte lui-même
- - Il veut devenir immortel à tout prix
- - Il est aussi maître chanteur. Il utilise ça surtout contre ses anciens
-   employeurs. Il lui arrive aussi de fouiller les documents de ses
-   victimes à la recherche de dossiers incriminant pour leur proches.
- - C'est un gros joueur, il laisse pas mal d'argent Aux Dés d'Argent
-
-Alchimiste maitre Golem
-
-Demoniste sorcier
-
-
-Alliés possibles pour la mort aux trousses: \\
-
-Chambellan du quartier \\
-
-Chef des transporteurs de rue de la guilde des alchimistes \\
-
-Chef Paladin du temple \\
