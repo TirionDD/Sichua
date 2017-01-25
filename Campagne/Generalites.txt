@@ -20,31 +20,36 @@ les joueurs en apprennent plus sur l'histoire de Sichua et la menace qui pèse s
 {\bf La mort aux trousses} \\
 {\bf 3} Leur principal commenditaire est assassiné en réponse
   Les PJs doivent remonter au démoniste ou nécromant selon qui a survécu.
-  Tentative d'assassinat contre les PJs avant d'arriver au but {\it 6-8}. \\
+  Tentative d'assassinat contre les PJs avant d'arriver au but {\it 6-7}. \\
 
 {\bf Le cerveau se révèle} \\
 {\bf 4} Avec les papiers du survivant les PJs trouve le donjon des voleurs/assassins. 
-        Les PJs infiltrent le donjon de la guilde des voleurs et combattent le vampire {\it 9-10}.
-{\bf 5} Prise d'assaut de la maison van Hjelmaster pour achever le vampire. {\it 11}.
+        Les PJs infiltrent le donjon de la guilde des voleurs et combattent le vampire {\it 8}.
+{\bf 5} Prise d'assaut de la maison van Hjelmaster pour achever le vampire. {\it 9}.
   Enquete dans les décombres, la ville surplombe un important réseau d'outre terre abandonné par tous. \\
 
 {\bf Une nouvelle menace} \\
-{\bf 7} Créatures puissantes dans les environs -> proviennent d'outre terre {\it 12-13}.
+{\bf 7} Créatures puissantes dans les environs -> proviennent d'outre terre {\it 10}.
   Il va falloir descendre s'occuper de ce qui remue en dessous... \\
 {\bf 8} Descente dans l'outre terre et découvrerte du monde d'en dessous.
-  Nombreuses rumeurs circulent sur la liche flageleuse mentale. 
-  Les joueurs tuent un nombre important de monstruosités, mais la liche n'est pas là {\it 14}.
+  Nombreuses rumeurs circulent sur la liche flageleuse mentale. {\it 11)
+  Les joueurs tuent un nombre important de monstruosités, mais la liche n'est pas dans son domaine {\it 12}.
   Enquête, quel est le plan de la liche? Compréhension et remonté en urgence \\
   La liche compte ouvrir un portail vers les abysses et attirer de puissants princes démons sur Sichua. 
   Pendant ce temps la liche compte se rendre dans les abysses et s'y tailler un royaume pendant que les plus 
   puissants démons sont affaiblis par leur guerre dans le plan materiel. \\
 
 {\bf Un nouveau monde} \\
-{\bf 9} Interrompre l'incantation d'un portail par la liche {\it 16}. \\
-{\bf 10} En cas de succès aller la dénicher dans la grande tour des mages où elle s'est réfugiée {\it 17}. \\
-{\bf 10 bis} En cas d'echec, vaincre les démons qui ravagent la ville {\it 17}. \\
+{\bf 9} Interrompre l'incantation d'un portail par la liche {\it 13}. \\
+{\bf 10} En cas de succès aller la dénicher dans la grande tour des mages où elle s'est réfugiée {\it 14}. \\
+{\bf 10 bis} En cas d'echec, vaincre les démons qui ravagent la ville (la liche est partie en enfer) {\it 14}. \\
 
-{\bf Epilogue} \\
-{\bf 11} Se débarrasser du prince démon qui veut absolument prendre la fontaine de vie. \\
-{\bf 11 bis} Aller tuer la liche dans les abysses. \\
+{\bf En enfer} \\
+{\bf 11} Pour en finir une bonne fois pour toute, les joueurs vont devoir aller en enfer finir le boulot. 
+Soit pour se débarrasser du prince démon qui veut absolument prendre la fontaine de vie. \\
+{\bf 11 bis} Soit pour aller tuer la liche dans les abysses. {\it 15} \\
 
+{\bf Sichua en ruines} \\
+{\bf 12} A leur retour les joueurs trouvent Sichua en ruines, les gobelinoides et kobolds sont en train de 
+mettre à sac la ville et on dit que c'est un dragon qui les mène! Les joueurs libèrent la ville. {\it 16}
+{\bf 13} Le dragon débarque et combat les joueurs. {\it 17}
