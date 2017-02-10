@@ -24,9 +24,9 @@ les joueurs en apprennent plus sur l'histoire de Sichua et la menace qui pèse s
 
 {\bf Le cerveau se révèle} \\
 {\bf 4} Avec les papiers du survivant les PJs trouve le donjon des voleurs/assassins. 
-        Les PJs infiltrent le donjon de la guilde des voleurs et combattent le vampire {\it 8}.
-{\bf 5} Prise d'assaut de la maison van Hjelmaster pour achever le vampire. {\it 9}.
-  Enquete dans les décombres, la ville surplombe un important réseau d'outre terre abandonné par tous. \\
+        Les PJs infiltrent le donjon de la guilde des voleurs et combattent le maître assassin {\it 8}.
+{\bf 5} Prise d'assaut de la maison van Hjelmaster pour achever le maitre qui est un vampire. {\it 9}.
+  Enquete dans le complexe des voleurs, la ville surplombe un important réseau d'outre terre abandonné par tous. \\
 
 {\bf Une nouvelle menace} \\
 {\bf 7} Créatures puissantes dans les environs -> proviennent d'outre terre {\it 10}.
@@ -50,6 +50,6 @@ Soit pour se débarrasser du prince démon qui veut absolument prendre la fontai
 {\bf 11 bis} Soit pour aller tuer la liche dans les abysses. {\it 15} \\
 
 {\bf Sichua en ruines} \\
-{\bf 12} A leur retour les joueurs trouvent Sichua en ruines, les gobelinoides et kobolds sont en train de 
+{\bf 12} A leur retour les joueurs trouvent Sichua en ruines, les géants sont en train de 
 mettre à sac la ville et on dit que c'est un dragon qui les mène! Les joueurs libèrent la ville. {\it 16}
 {\bf 13} Le dragon débarque et combat les joueurs. {\it 17}
